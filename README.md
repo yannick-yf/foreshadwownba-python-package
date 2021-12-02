@@ -1,2 +1,2 @@
 # foreshadwownba-python-package
-Python package running the model
+Python package executing the model on real data
